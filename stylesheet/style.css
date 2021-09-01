@@ -1,0 +1,52 @@
+/*  */
+body{
+    
+     background-color: whitesmoke;
+     width: 80%;
+     border: 1px solid;
+     margin: auto;
+     font-family: Roboto,'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+p,li{
+    font-size: 12px;
+    
+    /* padding: 10px; */
+}
+nav{
+    background-color: hsl(229, 100%, 7%);
+    height: 50px;
+    position: static;
+  
+}
+nav a,h2,p{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+header{
+    height: 140px;
+   
+    margin: 0px auto;
+    text-align: center;
+}
+img{
+    width: 100%;
+    border: 1px solid;
+}
+main{
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+}
+.midsection{
+    width: 50%;
+    margin: auto;
+    padding: 10px;;
+}
+.midsection h1,h2,h3{
+    text-align: center;
+}
+.midsection p,li{
+    padding: 10px;
+}
